@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radiu_cardview">4dp</dimen>
+    <dimen name="elevacion_acti">4dp</dimen>
+    <dimen name="nombre_cardview">20dp</dimen>
+
+</resources>

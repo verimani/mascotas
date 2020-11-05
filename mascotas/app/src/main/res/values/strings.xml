@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">nombre</string>
+    <string name="menu_about">A cerca de</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="likes">0</string>
+</resources>
